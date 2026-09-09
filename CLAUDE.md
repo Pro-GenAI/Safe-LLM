@@ -1,1 +1,1 @@
-Refer README.md for more information.
+@AGENTS.md
